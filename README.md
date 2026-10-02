@@ -603,14 +603,3 @@ The primary objective is to demonstrate:
 ## 👨‍💻 Author
 
 **Kanishq Arora**
-
-B.Tech CSE — AI & ML
-
----
-
-## 📄 Workshop Submission
-
-The completed project repository can be submitted through the workshop submission form.
-
-**Submission Form:**
-https://docs.google.com/forms/d/e/1FAIpQLSeKyCbxS_85GbVgAzPONQDqMU3eXNU2TV4Nc_VxFtSZFfJq0g/viewform
